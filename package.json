@@ -4,11 +4,12 @@
   "description": "tutorial https://www.youtube.com/watch?v=SKXkC4SqtRk",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://contributor.github.io/github-pages",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
